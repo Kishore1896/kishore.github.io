@@ -1,4 +1,4 @@
-# anandbaraik.github.io
+# Kishore.github.io
 
 Portfolio made with react.js. it has my projects & skills among others.
 
