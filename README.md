@@ -1,31 +1,5 @@
 # Kishore.github.io
 
-Portfolio made with react.js. it has my projects & skills among others.
-
-## Tech Stack
-
-**Technology:** React.js, CSS3, Html5
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/anandbaraik/anandbaraik.github.io.git
-```
-
-Go to the project directory
-
-```bash
-  cd anandbaraik.github.io
-```
-
-Run
-
-```bash
-  npm install
-  yarn start
-```
 
 ## Screenshot
 
