@@ -3734,3 +3734,12 @@ span.text {
   overflow-clip-margin: content-box;
   overflow: clip;
 }
+
+.skill img {
+  width: 108px;
+  height: 107px;
+  object-fit: contain;
+  -webkit-filter: drop-shadow(0 4px 4px rgba(0,0,0,0.25));
+  filter: drop-shadow(0 4px 4px rgba(0,0,0,0.25));
+  margin-bottom: 15px;
+}
